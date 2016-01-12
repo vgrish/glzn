@@ -1,0 +1,222 @@
+[2015-12-16 14:40:45] Start checkOrder
+[2015-12-16 14:40:45] Security type PKCS7
+[2015-12-16 14:40:45] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T14:40:45.000+03:00" code="200"  invoiceId="" shopId="151"/>
+[2015-12-16 18:17:27] Start checkOrder
+[2015-12-16 18:17:27] Security type PKCS7
+[2015-12-16 18:17:27] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T18:17:27.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 18:21:18] Start checkOrder
+[2015-12-16 18:21:18] Security type PKCS7
+[2015-12-16 18:21:18] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T18:21:18.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 18:23:16] Start checkOrder
+[2015-12-16 18:23:16] Security type PKCS7
+[2015-12-16 18:23:16] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T18:23:16.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 18:31:57] Start checkOrder
+[2015-12-16 18:31:57] Security type PKCS7
+[2015-12-16 18:31:57] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T18:31:57.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 18:46:37] Start checkOrder
+[2015-12-16 18:46:37] Security type PKCS7
+[2015-12-16 18:46:37] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T18:46:37.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 18:50:32] Start checkOrder
+[2015-12-16 18:50:32] Security type PKCS7
+[2015-12-16 18:50:32] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T18:50:32.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 19:05:05] Start checkOrder
+[2015-12-16 19:05:05] Security type PKCS7
+[2015-12-16 19:05:05] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T19:05:05.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 19:09:43] Start checkOrder
+[2015-12-16 19:09:43] Security type PKCS7
+[2015-12-16 19:09:43] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T19:09:43.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-16 19:54:36] Start checkOrder
+[2015-12-16 19:54:36] Security type PKCS7
+[2015-12-16 19:54:36] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-16T19:54:36.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-21 18:37:52] Start checkOrder
+[2015-12-21 18:37:52] Security type PKCS7
+[2015-12-21 18:37:52] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-21T18:37:52.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-21 18:39:01] Start checkOrder
+[2015-12-21 18:39:01] Security type PKCS7
+[2015-12-21 18:39:01] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-21T18:39:01.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-21 18:44:01] Start checkOrder
+[2015-12-21 18:44:01] Security type PKCS7
+[2015-12-21 18:44:01] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-21T18:44:01.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-21 18:44:15] Start checkOrder
+[2015-12-21 18:44:15] Security type PKCS7
+[2015-12-21 18:44:16] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-21T18:44:16.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 13:05:01] Start checkOrder
+[2015-12-22 13:05:01] Security type PKCS7
+[2015-12-22 13:05:01] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T13:05:01.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 13:05:10] Start checkOrder
+[2015-12-22 13:05:10] Security type PKCS7
+[2015-12-22 13:05:10] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T13:05:10.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 13:06:25] Start checkOrder
+[2015-12-22 13:06:25] Security type PKCS7
+[2015-12-22 13:06:25] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T13:06:25.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 16:58:06] Start checkOrder
+[2015-12-22 16:58:06] Security type PKCS7
+[2015-12-22 16:58:06] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T16:58:06.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 16:58:15] Start checkOrder
+[2015-12-22 16:58:15] Security type PKCS7
+[2015-12-22 16:58:15] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T16:58:15.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:16:03] Start checkOrder
+[2015-12-22 17:16:03] Security type PKCS7
+[2015-12-22 17:16:03] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T17:16:03.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:30:57] Start checkOrder
+[2015-12-22 17:30:57] Security type PKCS7
+[2015-12-22 17:30:57] Response: <?xml version="1.0" encoding="UTF-8"?><checkOrderResponse performedDatetime="2015-12-22T17:30:57.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:33:30] Start paymentAviso
+[2015-12-22 17:33:30] Security type PKCS7
+[2015-12-22 17:33:30] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:33:30.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:34:30] Start paymentAviso
+[2015-12-22 17:34:30] Security type PKCS7
+[2015-12-22 17:34:30] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:34:30.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:35:33] Start paymentAviso
+[2015-12-22 17:35:33] Security type PKCS7
+[2015-12-22 17:35:33] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:35:33.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:36:33] Start paymentAviso
+[2015-12-22 17:36:33] Security type PKCS7
+[2015-12-22 17:36:33] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:36:33.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:43:21] Start paymentAviso
+[2015-12-22 17:43:21] Security type PKCS7
+[2015-12-22 17:43:21] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:43:21.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:43:59] Start listOrders
+[2015-12-22 17:43:59] listOrders Request: requestDT=2015-12-22T17%3A43%3A59.000Z&outputFormat=XML&shopId=32602&orderCreatedDatetimeLessOrEqual=2015-12-22T17%3A43%3A59.000Z
+[2015-12-22 17:43:59] <?xml version="1.0" encoding="UTF-8" ?><listOrdersResponse status="3" error="110" processedDT="2015-12-22T17:43:59.269+03:00" techMessage="У данного пользователя нет прав на выполнение операции с запрошенными параметрами"></listOrdersResponse>
+[2015-12-22 17:44:02] Start listReturns
+[2015-12-22 17:44:02] listReturns Request: requestDT=2015-12-22T17%3A44%3A02.000Z&outputFormat=XML&shopId=32602&from=2015-01-01T00%3A00%3A00.000Z&till=2015-12-22T17%3A44%3A02.000Z
+[2015-12-22 17:44:02] <?xml version="1.0" encoding="UTF-8" ?><listReturnsResponse status="3" error="110" processedDT="2015-12-22T17:44:02.453+03:00" techMessage="У данного пользователя нет прав на выполнение операции с запрошенными параметрами"></listReturnsResponse>
+[2015-12-22 17:44:05] Start listOrders
+[2015-12-22 17:44:05] listOrders Request: requestDT=2015-12-22T17%3A44%3A05.000Z&outputFormat=XML&shopId=32602&orderCreatedDatetimeLessOrEqual=2015-12-22T17%3A44%3A05.000Z
+[2015-12-22 17:44:05] <?xml version="1.0" encoding="UTF-8" ?><listOrdersResponse status="3" error="110" processedDT="2015-12-22T17:44:05.747+03:00" techMessage="У данного пользователя нет прав на выполнение операции с запрошенными параметрами"></listOrdersResponse>
+[2015-12-22 17:44:21] Start paymentAviso
+[2015-12-22 17:44:21] Security type PKCS7
+[2015-12-22 17:44:21] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:44:21.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:49:30] Start paymentAviso
+[2015-12-22 17:49:30] Security type PKCS7
+[2015-12-22 17:49:30] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:49:30.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:51:34] Start paymentAviso
+[2015-12-22 17:51:34] Security type PKCS7
+[2015-12-22 17:51:34] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:51:34.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:54:12] Start paymentAviso
+[2015-12-22 17:54:12] Security type PKCS7
+[2015-12-22 17:54:12] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:54:12.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:55:13] Start paymentAviso
+[2015-12-22 17:55:13] Security type PKCS7
+[2015-12-22 17:55:13] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:55:13.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:56:31] Start paymentAviso
+[2015-12-22 17:56:31] Security type PKCS7
+[2015-12-22 17:56:31] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:56:31.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:57:33] Start paymentAviso
+[2015-12-22 17:57:33] Security type PKCS7
+[2015-12-22 17:57:34] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:57:34.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 17:59:23] Start paymentAviso
+[2015-12-22 17:59:23] Security type PKCS7
+[2015-12-22 17:59:23] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T17:59:23.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:10:13] Start paymentAviso
+[2015-12-22 18:10:13] Security type PKCS7
+[2015-12-22 18:10:13] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:10:13.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:12:34] Start paymentAviso
+[2015-12-22 18:12:34] Security type PKCS7
+[2015-12-22 18:12:34] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:12:34.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:19:32] Start paymentAviso
+[2015-12-22 18:19:32] Security type PKCS7
+[2015-12-22 18:19:32] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:19:32.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:21:34] Start paymentAviso
+[2015-12-22 18:21:34] Security type PKCS7
+[2015-12-22 18:21:34] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:21:34.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:29:24] Start paymentAviso
+[2015-12-22 18:29:24] Security type PKCS7
+[2015-12-22 18:29:24] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:29:24.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:40:14] Start paymentAviso
+[2015-12-22 18:40:14] Security type PKCS7
+[2015-12-22 18:40:14] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:40:14.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:42:39] Start paymentAviso
+[2015-12-22 18:42:39] Security type PKCS7
+[2015-12-22 18:42:39] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:42:39.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:49:35] Start paymentAviso
+[2015-12-22 18:49:35] Security type PKCS7
+[2015-12-22 18:49:35] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:49:35.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:51:37] Start paymentAviso
+[2015-12-22 18:51:37] Security type PKCS7
+[2015-12-22 18:51:37] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:51:37.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 18:59:26] Start paymentAviso
+[2015-12-22 18:59:26] Security type PKCS7
+[2015-12-22 18:59:26] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T18:59:26.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:10:19] Start paymentAviso
+[2015-12-22 19:10:19] Security type PKCS7
+[2015-12-22 19:10:19] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:10:19.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:12:46] Start paymentAviso
+[2015-12-22 19:12:46] Security type PKCS7
+[2015-12-22 19:12:46] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:12:46.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:19:37] Start paymentAviso
+[2015-12-22 19:19:37] Security type PKCS7
+[2015-12-22 19:19:37] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:19:37.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:21:42] Start paymentAviso
+[2015-12-22 19:21:42] Security type PKCS7
+[2015-12-22 19:21:42] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:21:42.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:29:30] Start paymentAviso
+[2015-12-22 19:29:30] Security type PKCS7
+[2015-12-22 19:29:30] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:29:30.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:40:21] Start paymentAviso
+[2015-12-22 19:40:21] Security type PKCS7
+[2015-12-22 19:40:21] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:40:21.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:42:49] Start paymentAviso
+[2015-12-22 19:42:49] Security type PKCS7
+[2015-12-22 19:42:49] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:42:49.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:49:39] Start paymentAviso
+[2015-12-22 19:49:39] Security type PKCS7
+[2015-12-22 19:49:39] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:49:39.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:51:43] Start paymentAviso
+[2015-12-22 19:51:43] Security type PKCS7
+[2015-12-22 19:51:43] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:51:43.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 19:59:32] Start paymentAviso
+[2015-12-22 19:59:32] Security type PKCS7
+[2015-12-22 19:59:32] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T19:59:32.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 20:10:28] Start paymentAviso
+[2015-12-22 20:10:28] Security type PKCS7
+[2015-12-22 20:10:28] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T20:10:28.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-22 20:12:50] Start paymentAviso
+[2015-12-22 20:12:50] Security type PKCS7
+[2015-12-22 20:12:50] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-22T20:12:50.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 12:15:07] Start paymentAviso
+[2015-12-23 12:15:07] Security type PKCS7
+[2015-12-23 12:15:07] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T12:15:07.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 12:16:09] Start paymentAviso
+[2015-12-23 12:16:09] Security type PKCS7
+[2015-12-23 12:16:09] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T12:16:09.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 12:16:55] Start paymentAviso
+[2015-12-23 12:16:55] Security type PKCS7
+[2015-12-23 12:16:55] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T12:16:55.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 12:31:09] Start paymentAviso
+[2015-12-23 12:31:09] Security type PKCS7
+[2015-12-23 12:31:09] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T12:31:09.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 13:01:10] Start paymentAviso
+[2015-12-23 13:01:10] Security type PKCS7
+[2015-12-23 13:01:10] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T13:01:10.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 13:31:12] Start paymentAviso
+[2015-12-23 13:31:12] Security type PKCS7
+[2015-12-23 13:31:13] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T13:31:13.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 14:01:13] Start paymentAviso
+[2015-12-23 14:01:13] Security type PKCS7
+[2015-12-23 14:01:13] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T14:01:13.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 14:31:16] Start paymentAviso
+[2015-12-23 14:31:16] Security type PKCS7
+[2015-12-23 14:31:16] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T14:31:16.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 21:55:51] Start paymentAviso
+[2015-12-23 21:55:51] Security type PKCS7
+[2015-12-23 21:55:51] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T21:55:51.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 21:56:52] Start paymentAviso
+[2015-12-23 21:56:52] Security type PKCS7
+[2015-12-23 21:56:52] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T21:56:52.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 22:11:52] Start paymentAviso
+[2015-12-23 22:11:52] Security type PKCS7
+[2015-12-23 22:11:52] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T22:11:52.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 22:41:52] Start paymentAviso
+[2015-12-23 22:41:52] Security type PKCS7
+[2015-12-23 22:41:52] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T22:41:52.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 23:11:53] Start paymentAviso
+[2015-12-23 23:11:53] Security type PKCS7
+[2015-12-23 23:11:53] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T23:11:53.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-23 23:41:53] Start paymentAviso
+[2015-12-23 23:41:53] Security type PKCS7
+[2015-12-23 23:41:53] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-23T23:41:53.000+03:00" code="200"  invoiceId="" shopId="32602"/>
+[2015-12-24 00:11:54] Start paymentAviso
+[2015-12-24 00:11:54] Security type PKCS7
+[2015-12-24 00:11:54] Response: <?xml version="1.0" encoding="UTF-8"?><paymentAvisoResponse performedDatetime="2015-12-24T00:11:54.000+03:00" code="200"  invoiceId="" shopId="32602"/>

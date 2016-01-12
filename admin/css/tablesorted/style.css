@@ -1,0 +1,20 @@
+/* tables */
+table#zakazTable {
+	width: 100%;
+	text-align: left;
+}
+table#zakazTable thead tr .header {
+	background-image: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table#zakazTable thead tr .headerSortUp {
+	background-image: url(asc.gif);
+}
+table#zakazTable thead tr .headerSortDown {
+	background-image: url(desc.gif);
+}
+table#zakazTable thead tr .headerSortDown, table#zakazTable thead tr .headerSortUp {
+background-color: #F3F3F3;
+}

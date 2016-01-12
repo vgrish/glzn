@@ -1,0 +1,12 @@
+this file should exist for request logging[2015-11-11 18:25:23] request: https://sp-money.yandex.ru/oauth/token; 
+[2015-11-11 18:25:23] response: https://sp-money.yandex.ru/oauth/token; http_code = 200; curl_errno = 0; curl_error = 
+[2015-11-11 18:25:23] request: https://money.yandex.ru/api/account-info; token = *C123; 
+[2015-11-11 18:25:23] response: https://money.yandex.ru/api/account-info; token = *C123; http_code = 200; curl_errno = 0; curl_error = 
+[2015-11-11 18:25:23] request: https://money.yandex.ru/api/operation-history; token = *C123; 
+[2015-11-11 18:25:23] response: https://money.yandex.ru/api/operation-history; token = *C123; http_code = 200; curl_errno = 0; curl_error = 
+[2015-11-11 18:25:23] request: https://money.yandex.ru/api/operation-details; token = *C123; 
+[2015-11-11 18:25:23] response: https://money.yandex.ru/api/operation-details; token = *C123; http_code = 200; curl_errno = 0; curl_error = 
+[2015-11-11 18:25:23] request: https://money.yandex.ru/api/revoke; token = *C123; 
+[2015-11-11 18:25:23] response: https://money.yandex.ru/api/revoke; token = *C123; http_code = 200; curl_errno = 0; curl_error = 
+[2015-11-11 18:57:18] request: https://sp-money.yandex.ru/oauth/token; 
+[2015-11-11 18:57:18] response: https://sp-money.yandex.ru/oauth/token; http_code = 200; curl_errno = 0; curl_error = 

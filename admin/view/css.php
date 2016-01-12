@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/animate.css/animate.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/font-awesome/css/font-awesome.min.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/simple-line-icons/css/simple-line-icons.css" type="text/css" />
+<link rel="stylesheet" href="css/font.css" type="text/css" />
+<link rel="stylesheet" href="css/app.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/treeview/css/jquery.treeview.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/treeview/css/morris.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/summernote/dist/summernote.css" type="text/css" />
+<link rel="stylesheet" href="../bower_components/datapicker/css/bootstrap-datepicker3.min.css" type="text/css" />

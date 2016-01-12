@@ -1,0 +1,20 @@
+AddType "text/html; charset=utf-8" .htm .html
+AddDefaultCharset utf-8
+PHP_VALUE default_charset utf-8
+
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^certificates/?$                   certificates.php
+RewriteRule ^card/?$                           card.php
+RewriteRule ^clients/?$                        clients.php
+RewriteRule ^show/?$                           show.php
+RewriteRule ^about/founder/?$                  founder.php
+RewriteRule ^about/philosophy/?$               philosophy.php
+RewriteRule ^about/manufacturing/?$            manufacturing.php
+RewriteRule ^about/press/?$                    press.php
+RewriteRule ^only/?$                           only.php
+RewriteRule ^contacts/?$                       contacts.php
+RewriteRule ^delivery/?$                       delivery.php
+RewriteRule ^catalog/([a-z_-]+)/?$              catalog.php?name_en=$1
+RewriteRule ^catalog/product/([0-9]+)$         product.php?id=$1

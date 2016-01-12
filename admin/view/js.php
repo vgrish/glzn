@@ -1,0 +1,15 @@
+<script src="../bower_components/jquery/dist/jquery.min.js"></script>
+<script src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<script src="js/ui-load.js"></script>
+<script src="js/ui-jp.config.js"></script>
+<script src="js/ui-jp.js"></script>
+<script src="js/ui-nav.js"></script>
+<script src="js/ui-toggle.js"></script>
+<script src="../bower_components/treeview/jquery.treeview.js"></script>
+<script src="../bower_components/summernote/dist/summernote.min.js"></script>
+<script src="../bower_components/summernote/dist/lang/ru.js"></script>
+<script src="../bower_components/html5sortable/jquery.sortable.min.js"></script>
+<script src="../bower_components/datapicker/bootstrap-datepicker.min.js"></script>
+<script src="../bower_components/datapicker/locales/bootstrap-datepicker.ru.min.js"></script>
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/scripts.js"></script>
