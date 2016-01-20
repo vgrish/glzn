@@ -28,7 +28,7 @@
 			<div class="h2">
 				Одежда, которая вдохновляет
 				<div class="btn-wrapp">
-					<a href="<?=ConfigSites::$prefix?>catalog/clothes" class="btn light">Каталог</a>
+					<a href="<?=ConfigSites::$prefix?>catalog_all.php" class="btn light">Каталог</a>
 				</div>
 			</div>
 		</div>
@@ -57,7 +57,7 @@
 				?>
 			</ul>
 			<div class="btn-wrapp">
-				<a href="<?=ConfigSites::$prefix?>catalog/clothes" class="btn dark">Каталог</a>
+				<a href="<?=ConfigSites::$prefix?>catalog_all.php" class="btn dark">Каталог</a>
 			</div>
 			<a href="http://lp4lp.ru" class="mokselle"></a>
 		</div>

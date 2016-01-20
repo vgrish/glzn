@@ -93,7 +93,7 @@
             $arrPhone = explode(";",$setInfo[0]["phone"]);
             foreach ($arrPhone as $phone) {
                 ?>
-                <div class="phone"><?=$phone?></div>
+                <div class="phone"><div class="phone_alloka"><?=$phone?></div></div>
                 <?
             }
         ?>

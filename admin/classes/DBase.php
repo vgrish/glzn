@@ -61,6 +61,23 @@ class DB extends ConnectDB {
         }
     }
 
+    public static function selectParam1($table,$attr,$val,$sort,$limit) {
+        if (isset($sort) and $sort) { list($row,$s) = explode("|",$sort); $sorted = "ORDER BY  `$row` $s "; } else { $sorted = ""; }
+        if (isset($limit) and $limit) { $limited = $limit; } else { $limited = ""; }
+
+        $select = parent::$DBH->prepare("SELECT * FROM $table $sorted $limited");
+        $select->execute();
+        $result = $select->fetchAll(PDO::FETCH_ASSOC);
+        $count = $select->rowCount();
+        if ($count == 0) {
+            return false;
+        } else {
+            return $result;
+        }
+    }
+	
+	
+	
     public static function selectAI($table) {
         $bd = self::$bd;
         $select = parent::$DBH->prepare("SELECT auto_increment FROM information_schema.tables WHERE table_name='$table' AND table_schema='$bd'");

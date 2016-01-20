@@ -1,4 +1,5 @@
 var phone_format;
+var phone_format;
 var prefix = $('.prefix').val();
 $(document).ready(function() {
 	update_card();
@@ -50,12 +51,6 @@ $(document).ready(function() {
 		});
 		$('head').append('<link rel="stylesheet" href="'+prefix+'css/animation.css" />');
 	}
-	//var colorRep = new Array();
-	//$('input[name="color"]').each(function(){
-	//	colorRep.push($(this).val());
-	//});
-    //
-	//console.log(colorRep);
 
 	$('.button').click(function() {
 		$('body').find('form:not(this)').children('label').removeClass('red');
@@ -119,21 +114,12 @@ $(document).ready(function() {
             var value = "form=oformzakaz&name="+name+"&phone="+phone+"&email="+email+"&address_state="+address_state+"&city="+city+"&street="+street+"&house="+house+"&comment="+comment+"&delivery="+delivery+"&payment="+payment+"&sumzakaz="+sumzakaz+"&sumdost="+sumdost+"&cityindex="+cityindex;
             $.ajax({ type: "POST", url: prefix+"view/update.php", dataType: "json", data: value,
                 success: function (data) {
-					//console.log(data);
                     if (data['type']=="thanks") {
                         popup('thanks');
                     } else {
-						var form = '<form method="post" action="https://money.yandex.ru/eshop.xml" target="_blank">';
-						form += '<input type="hidden" name="shopId" value="'+data['shopId']+'">';
-						form += '<input type="hidden" name="scid" value="'+data['scid']+'">';
-						form += '<input type="hidden" name="sum" size="64" value="'+data['summ']+'">';
-						form += '<input type="hidden" name="paymentType" value="AC">';
-						form += '<input type="hidden" name="orderNumber" value="'+data['zakaz']+'"/>';
-						form += '<input type="hidden" name="cps_phone" value="'+data['phone']+'"/>';
-						form += '<input type="hidden" name="cps_email" value="'+data['email']+'"/>';
-						form += '</form>';
-						$('#payment_form').html(form);
-						$('#payment_form').find('form').submit();
+                        var targets = "GLZN Заказ №"+data['zakaz'];
+                        $('#pay').html('<iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/shop.xml?account=410012153352644&quickpay=shop&payment-type-choice=on&writer=seller&targets='+targets+'&targets-hint=&default-sum='+data['summ']+'&button-text=01&successURL=glzn.ru%2Fnew%2Finvoice%2Fym%2Fpayment.php&label='+data['zakaz']+'" width="450" height="200"></iframe>');
+                        popup('payment');
                     }
                 }
             });
@@ -197,6 +183,7 @@ function popup(id, form, h1, h2, btn) { //onClick="popup('callback', '');"
 	if(btn != '') {$('#'+id).find('.button').html(btn);} else {$('#'+id).find('.button').html(def_btn);}
 	$('.activePopup').fadeIn(300);
 	$('.formname').attr("value", form);
+	yaCounter22247570.reachGoal('knopka');
 }
 
 function popup_out() {
@@ -405,14 +392,14 @@ $(document).on('click', '#product .col-nav .slider-arrows .arrow', function(){
 	};
 });
 $(document).on('click', '#product .slider-nav img', function(){
-	$('#product .slider').slick('slickGoTo', parseInt($(this).attr('data-num')), false);
+	$('#product .slider').slick('slickGoTo', parseInt($(this).attr('data-num'))-1, false);
 });
 
 $('#product .slider').on('beforeChange', function(event, slick, currentSlide, nextSlide){
-	if (nextSlide == $('#product .slider-nav').children().length-1) {
+	if (nextSlide > $('#product .slider').children().length) {
 		$('#product .col-nav .slider-arrows .arrow').removeClass('disabled');
 		$('#product .col-nav .slider-arrows .arrow.right').addClass('disabled');
-	} else if (nextSlide == 0) {
+	} else if (currentSlide == 1) {
 		$('#product .col-nav .slider-arrows .arrow').removeClass('disabled');
 		$('#product .col-nav .slider-arrows .arrow.left').addClass('disabled');
 	} else {
@@ -456,7 +443,6 @@ $(document).on('click', '.card-close', function(){
 $(document).on('change', 'input[name="color"]', function(){
     var id = $(this).data('num');
     $('.slider-nav img').each(function(){
-		console.log($(this).data('num'),id);
         if ($(this).data('num')==id) {
             $(this).click();
         }

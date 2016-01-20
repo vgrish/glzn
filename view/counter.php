@@ -44,3 +44,15 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=719387998096690&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+<script type="text/javascript">
+    var _alloka = {
+        objects: {
+            '83e95f6b27a1819d': {
+                block_class: 'phone_alloka'
+            }
+        },
+        trackable_source_types: ['typein', 'referrer', 'utm'],
+        last_source: false
+    };
+</script>
+<script src="http://analytics.alloka.ru/v4/alloka.js" type="text/javascript"></script>
